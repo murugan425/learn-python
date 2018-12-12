@@ -1,0 +1,5 @@
+Hello, this is a quick test file.
+These two sentences will be written in the test.txt file
+A new line is written from python program.
+This is the next line appended.
+ Appended a additional line to the test file

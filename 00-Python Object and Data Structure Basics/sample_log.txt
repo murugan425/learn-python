@@ -1,0 +1,11 @@
+Sat Aug 04 2018 08:00:05 www1 sshd[4741]: Failed password for invalid user zabbix from 208.65.153.253 port 22 ssh2
+Sat Aug 04 2018 08:00:29 www1 sshd[4600]: Failed password for invalid user operator from 208.65.153.253 port 22 ssh2
+Sat Aug 04 2018 08:01:14 www1 sshd[4867]: Failed password for invalid user dba from 208.65.153.253 port 1895 ssh2
+Sat Aug 04 2018 08:39:04 www1 sshd[72408]: pam_unix(sshd:session): session opened for user nsharpe by (uid=0)
+Sat Aug 04 2018 08:39:04 www1 sshd[90106]: Server listening on :: port 22.
+Sat Aug 04 2018 08:39:04 www1 sshd[93022]: pam_unix(sshd:session): session opened for user djohnson by (uid=0)
+Sat Aug 04 2018 08:41:58 www1 sshd[2262]: Failed password for root from 202.179.8.245 port 22 ssh2
+Sat Aug 04 2018 08:41:59 www1 sshd[3346]: Failed password for root from 202.179.8.245 port 22 ssh2
+Sat Aug 04 2018 08:42:00 www1 sshd[2938]: Failed password for root from 202.179.8.245 port 22 ssh2
+Sat Aug 04 2018 08:42:01 www1 sshd[1320]: Failed password for root from 202.179.8.245 port 22 ssh2
+Sat Aug 04 2018 08:42:56 www1 sshd[5754]: Failed password for nobody from 202.179.8.245 port 2332 ssh2
